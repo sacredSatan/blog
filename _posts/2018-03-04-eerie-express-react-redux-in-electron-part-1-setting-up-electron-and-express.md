@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "!EERiE: Part 1: Setting up Electron and Express"
-description: "Part one of a multi-part series on Using Electron, Express, React and Redux together."
+description: "Part one of a multi-part series on using Electron, Express, React and Redux together."
 comments: true
 ---
 
@@ -10,6 +10,8 @@ comments: true
 > # In the series:
 >
 > **Part 1**: Setting up Electron and Express **(You are here)**
+>
+> **Part 2**: [Creating an API with Express, SQLite and Sequelize](/blog/2018/03/eerie-express-react-redux-in-electron-part-2-creating-api-with-express-sqlite-and-sequelize/)
 
 ---
 
@@ -233,4 +235,4 @@ If you have any questions or suggestions, please comment below or send an email 
 
 Thank you for reading.
 
-[Git Repository](https://github.com/sacredSatan/alchemy/)
+[Git Repository](https://github.com/sacredSatan/alchemy/) (**part-1** branch for all the changes done till this post.)
