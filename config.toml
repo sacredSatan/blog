@@ -1,0 +1,45 @@
+baseURL = 'https://sacredsatan.com/blog'
+languageCode = 'en-us'
+title = 'sacredSatan/blog'
+theme='smol'
+
+# Parameters
+[params]
+    subtitle = "slash blog... slAsH bLOg... SLASH BLOG."
+    dateFmt = "02.01.2006 15:04"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 2 
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 1
+
+# Footer
+  [[menu.footer]]
+      name = "/"
+      url = "https://sacredsatan.com/"
+      weight = 1
+
+  [[menu.footer]]
+      name = "/blog"
+      url = "https://sacredsatan.com/blog"
+      weight = 1
+
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/sacredsatan"
+        weight = 1
