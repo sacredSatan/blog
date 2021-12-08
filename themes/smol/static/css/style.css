@@ -9,3 +9,7 @@ article{padding:24px 0}
 figcaption {color: #888; font: 12px/1.5 monospace; text-align: center;}
 figure {margin: auto}
 img {display: block; max-width: 100%; height: auto; margin: auto}
+.header-title-wrapper {display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap;}
+.header-link {font-size: 22px;}
+.header-subtitle {padding-right: 8px;}
+nav {padding-top: 8px;}
