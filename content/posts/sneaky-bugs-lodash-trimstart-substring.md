@@ -1,5 +1,5 @@
 ---
-title: "Sneaky Bugs: using lodash/trimStart to trim off a leading substring"
+title: "Sneaky bugs: using lodash/trimStart to trim off a leading substring"
 date: 2021-11-28T16:07:54+05:30
 slug: 2021-11-28-sneaky-bugs-lodash-trimstart-substring
 type: posts
