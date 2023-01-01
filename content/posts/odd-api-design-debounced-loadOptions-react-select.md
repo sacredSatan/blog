@@ -1,7 +1,7 @@
 ---
 title: "Odd Api Design: loadOptions prop in async React Select"
-date: 2022-10-16T22:48:36+05:30
-slug: 2022-10-16-odd-api-design-debounced-loadoptions-react-select
+date: 2023-01-01T16:47:31+05:30
+slug: 2023-01-01-odd-api-design-debounced-loadoptions-react-select
 type: posts
 draft: false
 categories: ["programming"]
