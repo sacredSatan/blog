@@ -1,5 +1,5 @@
 ---
-title: "Sneaky Bugs String Substitution and String Split"
+title: "Sneaky Bugs: string substitution and string split"
 date: 2023-10-21T16:13:24+05:30
 slug: 2023-10-21-sneaky-bugs-string-substitution-and-string-split
 type: posts
